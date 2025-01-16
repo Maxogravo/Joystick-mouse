@@ -1,0 +1,6 @@
+# Setup:
+# GND in any GND pin
+# +5v in first pin on the other side(pin 38)
+# VRx in  pin 31 (Not GPIO 31)
+# VRy in pin 32 (Not GPIO 32)
+# SW in pin 29 (Not GPIO  29)
